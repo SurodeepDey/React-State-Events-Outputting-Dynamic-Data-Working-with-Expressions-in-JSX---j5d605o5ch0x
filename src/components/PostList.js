@@ -24,3 +24,4 @@ const PostList = ({ page }) => {
 }
 
 export { PostList }
+
