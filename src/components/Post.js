@@ -9,3 +9,4 @@ const Post = ({ title, body }) => {
 }
 
 export { Post }
+
