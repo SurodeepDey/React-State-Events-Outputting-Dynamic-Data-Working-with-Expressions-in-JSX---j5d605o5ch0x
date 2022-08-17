@@ -1,4 +1,4 @@
-import axios from "axios"
+import axios from "axios";
 
 const fetchPosts = async (page, limit = 5) => {
     const url = `https://jsonplaceholder.typicode.com/posts?_page=${page}&_limit=${limit}`
